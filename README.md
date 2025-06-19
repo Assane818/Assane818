@@ -29,13 +29,6 @@
 
 ## 🎯 À Propos de Moi - L'Architecte Numérique
 
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,23&height=350&section=header&text=Assane%20Ndiaye&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Développeur%20Full%20Stack%20%7C%20Architecte%20de%20Solutions%20Numériques%20✨&descAlignY=58&descSize=20" width="100%"/>
-  
-</div>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">

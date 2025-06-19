@@ -1,40 +1,38 @@
 <div align="center">
   
-  <!-- Animated Header with African Colors -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=350&section=header&text=Assane%20Ndiaye&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Développeur%20Full%20Stack%20%7C%20Architecte%20de%20Solutions%20Numériques%20✨&descAlignY=58&descSize=20" width="100%"/>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,23&height=350&section=header&text=Assane%20Ndiaye&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Développeur%20Full%20Stack%20%7C%20Architecte%20de%20Solutions%20Numériques%20✨&descAlignY=58&descSize=20" width="100%"/>
   
 </div>
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+Développeur+Full+Stack+Junior;%F0%9F%92%8E+Créateur+d'Expériences+Numériques;%F0%9F%8C%8D+Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3;%E2%9A%A1+Architecte+de+Code+Passionné;🌍+Fierté+Africaine+dans+la+Tech)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+Développeur+Full+Stack+Junior;%F0%9F%92%8E+Créateur+d'Expériences+Numériques;%F0%9F%8C%8D+Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3;%E2%9A%A1+Architecte+de+Code+Passionné)](https://git.io/typing-svg)
   
 </div>
 
-<!-- Dynamic Profile Badges with African theme -->
+<!-- Dynamic Profile Badges -->
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Assane818&color=red&style=for-the-badge&label=VUES+PROFIL)](https://github.com/Assane818)
-  [![GitHub followers](https://img.shields.io/github/followers/Assane818?label=ABONNÉS&style=for-the-badge&color=green&labelColor=000000&logo=github)](https://github.com/Assane818)
-  [![GitHub User's stars](https://img.shields.io/github/stars/Assane818?style=for-the-badge&color=yellow&labelColor=000000&logo=github&label=ÉTOILES)](https://github.com/Assane818)
-  [![Years Badge](https://badges.pufler.dev/years/Assane818?style=for-the-badge&color=orange&labelColor=000000&label=ANNÉES)](https://github.com/Assane818)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Assane818&color=FF6B6B&style=for-the-badge&label=VUES+PROFIL)](https://github.com/Assane818)
+  [![GitHub followers](https://img.shields.io/github/followers/Assane818?label=ABONNÉS&style=for-the-badge&color=4ECDC4&labelColor=1A1A2E&logo=github)](https://github.com/Assane818)
+  [![GitHub User's stars](https://img.shields.io/github/stars/Assane818?style=for-the-badge&color=FFD93D&labelColor=1A1A2E&logo=github&label=ÉTOILES)](https://github.com/Assane818)
+  [![Years Badge](https://badges.pufler.dev/years/Assane818?style=for-the-badge&color=FF9F43&labelColor=1A1A2E&label=ANNÉES)](https://github.com/Assane818)
   
 </div>
 
 <br>
 
-<!-- Enhanced Separator -->
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<!-- Separator with gradient -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 À Propos de Moi - L'Architecte Numérique Africain
+## 🎯 À Propos de Moi - L'Architecte Numérique
 
 <div align="center">
   
-  <!-- Animated Code Snippet with African Pride -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=240&lines=const+développeurAfricain+%3D+%7B;++nom%3A+%22Assane+Ndiaye%22%2C;++âge%3A+21%2C;++localisation%3A+%22Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3%22%2C;++formation%3A+%22Génie+Logiciel+Réseaux+et+Système%22%2C;++école%3A+%22Institut+Supérieur+de+Management+(ISM)%22%2C;++passion%3A+%22Innovation+Technologique+Africaine%22%2C;++mission%3A+%22Digitaliser+l'Afrique%2C+Une+App+à+la+Fois%22%2C;++fierté%3A+%22Représenter+l'Excellence+Tech+Africaine%22;%7D%3B" alt="About Me Code"/>
+  <!-- Animated Code Snippet -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=800&color=FFD93D&center=true&vCenter=true&width=850&height=200&lines=const+développeur+%3D+%7B;++nom%3A+%22Assane+Ndiaye%22%2C;++âge%3A+21%2C;++localisation%3A+%22Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3%22%2C;++formation%3A+%22Génie+Logiciel+Réseaux+et+Système%22%2C;++école%3A+%22Institut+Supérieur+de+Management+(ISM)%22%2C;++passion%3A+%22Créer+des+Solutions+Numériques+Innovantes%22%2C;++focusActuel%3A+%5B%22Développement+Full+Stack%22%2C+%22Technologies+Cloud%22%5D%2C;++mission%3A+%22Transformer+les+Idées+en+Réalité+Numérique%22;%7D%3B" alt="About Me Code"/>
   
 </div>
 
@@ -42,43 +40,41 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Mission & Vision Africaine
-> *"Passionné par la création de solutions numériques innovantes qui transforment l'Afrique et positionnent le continent à l'avant-garde de la révolution technologique mondiale. Mon objectif est de contribuer à faire du Sénégal et de l'Afrique des leaders de l'innovation digitale."*
+### 🚀 Mission & Vision
+> *"Passionné par la création de solutions numériques innovantes qui transforment les entreprises et améliorent l'expérience utilisateur. Mon objectif est de contribuer à la transformation digitale des organisations tout en maîtrisant les technologies émergentes."*
 
 ### 🎓 Parcours Éducatif  
-- 🏫 **École :** Institut Supérieur de Management (ISM) - Dakar
+- 🏫 **École :** Institut Supérieur de Management (ISM)
 - 📚 **Filière :** Génie Logiciel Réseaux et Système
-- 🌍 **Vision :** Démocratiser la technologie en Afrique
-- 🌱 **En Apprentissage :** Architecture cloud & IA pour l'Afrique
-- 🎯 **Focus :** Solutions tech adaptées au contexte africain
-- 💡 **Prochaines Étapes :** Fintech & AgriTech africaines
+- 🌱 **En Apprentissage :** Architecture microservices & technologies cloud
+- 🎯 **Domaines de Focus :** Développement Full Stack & Gestion de projet
+- 💡 **Prochaines Étapes :** Intégration IA/ML & maîtrise DevOps
 
 ### 💡 Ce qui me Motive
-- ✨ Créer des solutions pour l'Afrique par l'Afrique
-- 🔧 Résoudre les défis africains avec la technologie  
-- 🌍 Contribuer au rayonnement tech du Sénégal
-- 🚀 Inspirer la nouvelle génération de développeurs africains
+- ✨ Créer des expériences utilisateur fluides
+- 🔧 Résoudre des défis techniques complexes  
+- 🌍 Contribuer à la transformation digitale
+- 🚀 Apprentissage continu et innovation
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
   
-  <!-- Black Developer Animation -->
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Black Developer Coding"/>
+  <!-- Animated Developer GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Animation Codage"/>
   
   <br><br>
   
-  <!-- Enhanced Stats with African Theme -->
+  <!-- Quick Stats Table -->
   ```yaml
   📊 Stats Rapides:
-    🎂 Âge: 21 ans (Génération Z Tech 🚀)
-    💼 Expérience: 2+ années de passion
-    🌍 Localisation: Dakar, Teranga Land 🇸🇳  
-    ☕ Cafés Touba par jour: ∞ tasses ☕
-    🎯 Focus actuel: Tech Made in Africa
-    🚀 Prochain objectif: Startup Africaine
-    🌟 Inspiration: Être le changement tech en Afrique
+    🎂 Âge: 21 ans
+    💼 Expérience: 2+ années  
+    🌍 Localisation: Dakar, Sénégal
+    ☕ Cafés par jour: ∞ tasses
+    🎯 Focus actuel: Magie Full Stack
+    🚀 Prochain objectif: Maîtrise Architecture Cloud
   ```
   
 </div>
@@ -87,187 +83,129 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Stack Technologique - Arsenal du Développeur Africain
+## 🛠️ Stack Technologique - Mon Arsenal Numérique
 
 <div align="center">
   
-  <!-- Enhanced Skills with glow effect -->
+  <!-- Dynamic Skills Icons -->
   <img src="https://skillicons.dev/icons?i=java,php,js,python,cs,angular,dart,flutter,spring,symfony,dotnet,flask&theme=dark&perline=6" />
   
 </div>
 
-### 💻 Langages de Programmation - Ma Polyglotte Tech
+### 💻 Langages de Programmation
 
 <div align="center">
   
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1A1A2E)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1A1A2E)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1A1A2E)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A2E)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1A1A2E)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1A1A2E)
   
 </div>
 
-### 🎨 Technologies Frontend - Créateur d'Expériences
+### 🎨 Technologies Frontend
 
 <div align="center">
   
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=1A1A2E)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1A1A2E)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1A1A2E)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1A1A2E)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1A1A2E)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1A1A2E)
   
 </div>
 
-### ⚙️ Frameworks Backend - Puissance Serveur
+### ⚙️ Frameworks Backend
 
 <div align="center">
   
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=000000)
-  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=FFD700)
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=000000)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=FFD700)
-  ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1A1A2E)
+  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=1A1A2E)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=1A1A2E)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1A1A2E)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=1A1A2E)
   
 </div>
 
-### 🗄️ Bases de Données - Gardien des Données
+### 🗄️ Bases de Données
 
 <div align="center">
   
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=000000)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1A1A2E)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A1A2E)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1A2E)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1A1A2E)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=1A1A2E)
   
 </div>
 
-### 🎨 Outils de Design & Créatifs - Artiste Numérique
+### 🎨 Outils de Design & Créatifs
 
 <div align="center">
   
-  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=000000)
-  ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&labelColor=000000)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&labelColor=000000)
-  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=000000)
+  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=1A1A2E)
+  ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&labelColor=1A1A2E)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&labelColor=1A1A2E)
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=1A1A2E)
   
 </div>
 
-### 🛠️ Outils de Développement - Forge du Code
+### 🛠️ Outils de Développement
 
 <div align="center">
   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=000000)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1A1A2E)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A2E)
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=1A1A2E)
   
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Analyses GitHub - Performance du Développeur Africain
+## 📊 Analyses GitHub - Développement Basé sur les Données
 
-<!-- Enhanced Activity Graph -->
+<!-- Activity Graph -->
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Assane818&custom_title=🚀%20Graphique%20de%20Contributions%20-%20Excellence%20Africaine&bg_color=000000&color=FFD700&line=00FF00&point=FF6B35&area_color=FF0000&title_color=FFFFFF&area=true&hide_border=true&radius=10" alt="Graphique Activité GitHub" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Assane818&custom_title=🚀%20Graphique%20de%20Contributions%20d'Assane&bg_color=1A1A2E&color=00D4FF&line=FF6B6B&point=FFD93D&area_color=4ECDC4&title_color=FFFFFF&area=true&hide_border=true&radius=10" alt="Graphique Activité GitHub" width="100%"/>
   
 </div>
 
-<!-- Main Stats with African Colors -->
+<!-- Streak Stats -->
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Assane818&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=00FF00&text_color=FFFFFF&border_radius=15&custom_title=🔥%20Statistiques%20GitHub%20-%20Made%20in%20Senegal&locale=fr" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assane818&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_radius=15&langs_count=10&custom_title=💻%20Langages%20Préférés%20-%20Polyglotte%20Tech&locale=fr" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assane818&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD93D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF&border_radius=10&locale=fr" alt="Séries GitHub" width="70%"/>
   
 </div>
 
-<!-- Enhanced Streak Stats -->
+<!-- Dynamic Metrics -->
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assane818&theme=radical&hide_border=true&background=000000&stroke=FFD700&ring=00FF00&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&border_radius=15&locale=fr" alt="Séries GitHub - Constance Africaine" width="70%"/>
+  <img src="https://metrics.lecoq.io/Assane818?template=classic&config.timezone=Africa%2FDakar&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.output=svg&config.animated=true&config.padding=10%2C%2010" alt="Métriques GitHub" width="100%"/>
   
 </div>
 
-<!-- Dynamic Real-time Metrics -->
-<div align="center">
-  
-  <img src="https://metrics.lecoq.io/Assane818?template=classic&config.timezone=Africa%2FDakar&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.output=svg&config.animated=true&config.padding=10%2C%2010" alt="Métriques Avancées GitHub" width="100%"/>
-  
-</div>
+## 🚀 Projets Phares - Portfolio de Code
 
-### 🏆 Réalisations GitHub - Trophées du Développeur
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Assane818&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers" alt="Trophées GitHub - Excellence Africaine"/>
-  
-</div>
-
-<!-- Enhanced Real-time Stats Cards -->
-<div align="center">
-  
-  <table width="100%" style="border: 2px solid #FFD700; border-radius: 10px;">
-  <tr>
-  <td width="25%" align="center" style="background: linear-gradient(45deg, #FF6B35, #FFD700);">
-
-  **📝 Total Commits**  
-  ![Commits](https://badges.pufler.dev/commits/monthly/Assane818?style=for-the-badge&color=00FF00&labelColor=000000&label=COMMITS)
-
-  </td>
-  <td width="25%" align="center" style="background: linear-gradient(45deg, #00FF00, #FFD700);">
-
-  **📚 Dépôts**  
-  ![Repos](https://badges.pufler.dev/repos/Assane818?style=for-the-badge&color=FF6B35&labelColor=000000&label=DÉPÔTS)
-
-  </td>
-  <td width="25%" align="center" style="background: linear-gradient(45deg, #FFD700, #FF6B35);">
-
-  **⭐ Total Étoiles**  
-  ![Stars](https://img.shields.io/github/stars/Assane818?style=for-the-badge&color=00FF00&labelColor=000000&logo=github&label=ÉTOILES)
-
-  </td>
-  <td width="25%" align="center" style="background: linear-gradient(45deg, #FF6B35, #00FF00);">
-
-  **👥 Abonnés**  
-  ![Followers](https://img.shields.io/github/followers/Assane818?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&label=ABONNÉS)
-
-  </td>
-  </tr>
-  </table>
-  
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🚀 Projets Phares - Innovation Made in Senegal
-
-<!-- Enhanced Repository Cards -->
+<!-- Dynamic Repository Cards -->
 <div align="center">
   
   <table width="100%">
   <tr>
   <td width="50%">
     
-  [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Assane818&repo=ecommerce-dotnet&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=00FF00&border_radius=15&locale=fr)](https://github.com/Assane818/ecommerce-dotnet)
+  [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Assane818&repo=ecommerce-dotnet&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FFD93D&border_radius=10&locale=fr)](https://github.com/Assane818/ecommerce-dotnet)
     
   </td>
   <td width="50%">
     
-  [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Assane818&repo=atelier-couture-php&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=00FF00&border_radius=15&locale=fr)](https://github.com/Assane818/atelier-couture-php)
+  [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Assane818&repo=atelier-couture-php&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FFD93D&border_radius=10&locale=fr)](https://github.com/Assane818/atelier-couture-php)
     
   </td>
   </tr>
@@ -275,193 +213,168 @@
   
 </div>
 
-### 💼 Vitrine de Projets - Solutions Africaines
-
-<div align="center" style="background: linear-gradient(45deg, #000000, #FFD700); padding: 20px; border-radius: 15px;">
-  
-  <h4>🌍 <strong>Développer pour l'Afrique, Innover pour le Monde</strong> 🌍</h4>
-  
-</div>
+### 💼 Vitrine de Projets
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #FF6B35, #000000); padding: 15px; border-radius: 10px;">
+<td width="50%" valign="top">
 
-#### 🛒 **Plateforme E-Commerce Africaine** (C# .NET)
+#### 🛒 **Plateforme E-Commerce** (C# .NET)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ✅ **Statut :** Prêt pour l'Afrique 🌍
-- 🎯 **Fonctionnalités :** Mobile Money, gestion multi-devises, support langues locales
-- 📈 **Impact :** Démocratisation du e-commerce pour PME africaines
-- 🏆 **Innovation :** Adaptation au contexte économique africain
+- ✅ **Statut :** Prêt pour la Production
+- 🎯 **Fonctionnalités :** Passerelle de paiement, gestion d'inventaire, authentification utilisateur
+- 📈 **Impact :** Amélioration de l'expérience d'achat en ligne pour petites entreprises
 
-#### ✂️ **Gestionnaire Atelier Couture Sénégalais** (PHP)
+#### ✂️ **Gestionnaire Atelier Couture** (PHP)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-- ✅ **Statut :** Révolutionnant l'Artisanat 🧵
-- 🎯 **Fonctionnalités :** Gestion sur mesure, planning événements, facturation FCFA
-- 📈 **Impact :** Modernisation artisanat traditionnel sénégalais
-- 🌟 **Spécial :** Interface en Wolof disponible
+- ✅ **Statut :** En Production
+- 🎯 **Fonctionnalités :** Suivi des commandes, gestion clientèle, planification rendez-vous
+- 📈 **Impact :** Optimisation des opérations d'un atelier de couture local
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #00FF00, #000000); padding: 15px; border-radius: 10px;">
+<td width="50%" valign="top">
 
-#### 💰 **Système FinTech Africain** (Symfony)
+#### 💰 **Système de Gestion de Dettes** (Symfony)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
-- ✅ **Statut :** Banking the Unbanked 💳
-- 🎯 **Fonctionnalités :** Micro-crédit, épargne communautaire, blockchain
-- 📈 **Impact :** Inclusion financière en milieu rural africain
-- 🚀 **Vision :** Next African Fintech Unicorn
+- ✅ **Statut :** Déployé
+- 🎯 **Fonctionnalités :** Synchronisation multi-plateforme, mises à jour temps réel, tableau de bord rapports
+- 📈 **Impact :** Amélioration du suivi financier pour petites entreprises
 
-#### 📱 **App Campus Connecté ISM** (Spring Boot)
+#### 📱 **App Présence ISM** (Spring Boot)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- 🚧 **Statut :** Révolution EdTech Africaine 🎓
-- 🎯 **Fonctionnalités :** IA prédictive, blockchain certificats, réalité augmentée
-- 📈 **Impact :** Modèle pour universités africaines
-- 🌍 **Ambition :** Exporter vers toute l'Afrique francophone
+- 🚧 **Statut :** En Développement
+- 🎯 **Fonctionnalités :** Cross-plateforme, notifications temps réel, intégration biométrique
+- 📈 **Impact :** Modernisation de la gestion éducative à l'ISM
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💡 Compétences & Excellence Africaine
+## 💡 Compétences & Expertise
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Excellence+Technique+Africaine+%F0%9F%92%BB;Leadership+Naturel+%F0%9F%A6%81;Communication+Panafricaine+%F0%9F%8C%8D;Innovation+Continue+%F0%9F%9A%80;Ubuntu+Philosophy+in+Tech+%E2%9D%A4%EF%B8%8F" alt="En-tête Compétences Africaines"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Excellence+Technique+%F0%9F%92%BB;Maîtrise+des+Soft+Skills+%F0%9F%A7%A0;Communication+Multilingue+%F0%9F%8C%8D;Évolution+Continue+%F0%9F%9A%80" alt="En-tête Compétences"/>
   
 </div>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" style="background: linear-gradient(135deg, #FF6B35, #000000); padding: 15px; border-radius: 10px; color: white;">
+<td width="33%" valign="top">
 
-### 🧠 **Soft Skills Africaines**
+### 🧠 **Soft Skills**
 ```yaml
-Leadership_Ubuntu:
-  niveau: "Expert"
-  philosophie: "Je suis parce que nous sommes"
+Leadership:
+  niveau: "Avancé"
+  expérience: "Projets d'équipe"
   
-Communication_Panafricaine:
-  niveau: "Multilingue Expert" 
-  langues: ["Français", "Wolof", "Anglais", "Espagnol"]
-  force: "Pont culturel Afrique-Monde"
+Communication:
+  niveau: "Expert" 
+  langues: ["Français", "Anglais", "Espagnol"]
   
 Résolution_Problèmes:
-  niveau: "Ingénieux Africain"
-  approche: "Système D + Innovation"
-  spécialité: "Solutions low-cost high-impact"
+  niveau: "Expert"
+  approche: "Analytique & Créative"
   
-Adaptabilité_Africaine:
-  niveau: "Caméléon Tech"
-  preuve: "Thriving in any context"
+Adaptabilité:
+  niveau: "Expert"
+  preuve: "Apprentissage rapide nouvelles techs"
   
-Gestion_Temps_Africain:
-  style: "Efficacité + Convivialité"
-  outils: ["Agile Africain", "Scrum Teranga"]
+Gestion_Temps:
+  niveau: "Avancé"
+  outils: ["Agile", "Scrum", "Kanban"]
 ```
 
 </td>
-<td width="33%" valign="top" style="background: linear-gradient(135deg, #00FF00, #000000); padding: 15px; border-radius: 10px; color: white;">
+<td width="33%" valign="top">
 
-### 🌍 **Multilinguisme Africain**
+### 🌍 **Langues**
 ```javascript
 const compétencesLinguistiques = {
   français: {
-    niveau: "Natif Parfait",
+    niveau: "Natif",
     maîtrise: "100%",
-    usage: "Business & Académique",
-    spécialité: "Tech français"
-  },
-  wolof: {
-    niveau: "Natif Sénégal",
-    maîtrise: "100%", 
-    usage: "Connexion locale profonde",
-    avantage: "Compréhension culturelle"
+    usage: "Communication quotidienne"
   },
   anglais: {
-    niveau: "Fluent International",
-    maîtrise: "90%",
-    usage: "Tech globale",
-    certificat: "TOEFL ready"
+    niveau: "Courant",
+    maîtrise: "85%", 
+    usage: "Documentation technique"
   },
   espagnol: {
-    niveau: "Conversationnel",
-    maîtrise: "50%",
-    objectif: "Marché hispanique"
+    niveau: "Intermédiaire",
+    maîtrise: "40%",
+    usage: "Apprentissage en cours"
   }
 };
 ```
 
 </td>
-<td width="33%" valign="top" style="background: linear-gradient(135deg, #FFD700, #000000); padding: 15px; border-radius: 10px; color: black;">
+<td width="33%" valign="top">
 
-### 🎯 **Passion & Culture Africaine**
+### 🎯 **Centres d'Intérêt & Loisirs**
 ```python
-identité_africaine = {
-    "sports": ["🏃‍♂️ Course Dakar", "⚽ Lions du Sénégal"],
-    "culture": ["🥁 Sabar", "🎵 Mbalax", "📚 Littérature africaine"],
-    "sports_mécaniques": ["🏎️ F1 Lewis Hamilton Fan", "🏁 Rallye Dakar"],
-    "technologie": ["🚀 Afrofuturisme", "🤖 IA pour l'Afrique"],
-    "leadership": ["👑 Next Generation Africa", "🌟 Tech Ambassador"],
-    "vision": ["🌍 Silicon Sahel", "💡 African Tech Renaissance"],
-    "mode_de_vie": ["☕ Café Touba addict", "🌅 Lever 5h Fajr coding"]
+intérêts_personnels = {
+    "sports": ["🏃‍♂️ Course à pied", "⚽ Football"],
+    "sports_mécaniques": ["🏎️ Formule 1", "🏁 Course auto"],
+    "technologie": ["🚀 Tech spatiale", "🤖 IA/ML"],
+    "divertissement": ["🎮 Gaming", "🎬 Cinéma"],
+    "apprentissage": ["📚 Livres tech", "🎓 Cours en ligne"],
+    "style_de_vie": ["☕ Passionné café", "🌍 Voyage"]
 }
 
-# Fierté africaine dans chaque ligne de code ! 🦁
+# Toujours explorer de nouveaux horizons ! 🌟
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Contact & Collaboration - Réseau Africain
+## 🌐 Contact & Collaboration
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=%F0%9F%A4%9D+Connectons+l'Afrique!;%F0%9F%9A%80+Prêt+pour+Partenariats;%F0%9F%92%AC+Ouvert+aux+Opportunités;%F0%9F%8C%9F+Construisons+l'Afrique+Numérique;🦁+Ubuntu+in+Tech" alt="Animation Contact Africaine"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Connectons-nous!;%F0%9F%9A%80+Prêt+à+Collaborer;%F0%9F%92%AC+Ouvert+aux+Opportunités;%F0%9F%8C%9F+Construisons+l'Avenir" alt="Animation Contact"/>
   
 </div>
 
-<!-- Enhanced Contact Cards with African theme -->
+<!-- Contact Information Cards -->
 <div align="center">
   
-  <table style="border: 3px solid #FFD700; border-radius: 15px; background: linear-gradient(45deg, #000000, #FF6B35);">
+  <table>
   <tr>
-  <td align="center" style="padding: 10px;">
+  <td align="center">
     
-  [![Email](https://img.shields.io/badge/📧%20Email-assanen818@gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:assanen818@gmail.com)
+  [![Email](https://img.shields.io/badge/📧%20Email-assanen818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:assanen818@gmail.com)
     
   </td>
-  <td align="center" style="padding: 10px;">
+  <td align="center">
     
-  [![WhatsApp](https://img.shields.io/badge/📱%20WhatsApp%20Sénégal-+221776764792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/221776764792)
+  [![Téléphone](https://img.shields.io/badge/📱%20WhatsApp-+221776764792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1A2E)](https://wa.me/221776764792)
     
   </td>
   </tr>
   <tr>
-  <td align="center" style="padding: 10px;">
+  <td align="center">
     
-  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn%20Pro-Se%20Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/assane818)
+  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Se%20Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/assane818)
     
   </td>
-  <td align="center" style="padding: 10px;">
+  <td align="center">
     
-  [![Localisation](https://img.shields.io/badge/📍%20Dakar%20🇸🇳-Corniche%20Ouest-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=000000)](https://maps.google.com/?q=Corniche+Ouest+Dakar)
+  [![Localisation](https://img.shields.io/badge/📍%20Localisation-Corniche%20Ouest,%20Dakar-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1A1A2E)](https://maps.google.com/?q=Corniche+Ouest+Dakar)
     
   </td>
   </tr>
@@ -469,158 +382,132 @@ identité_africaine = {
   
 </div>
 
-<!-- Enhanced Social Media with African Pride -->
+<!-- Social Media Links -->
 <div align="center">
   
-  [![Twitter](https://img.shields.io/badge/Twitter%20🌍-Suivre%20@Assane818-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/Assane818)
-  [![GitHub](https://img.shields.io/badge/GitHub%20🚀-Follow%20African%20Excellence-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Assane818)
-  [![Portfolio](https://img.shields.io/badge/Portfolio%20🌟-Made%20in%20Senegal-FFD700?style=for-the-badge&logo=safari&logoColor=black&labelColor=000000)](#)
+  [![Twitter](https://img.shields.io/badge/Twitter-Me%20Suivre-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A1A2E)](https://twitter.com/Assane818)
+  [![GitHub](https://img.shields.io/badge/GitHub-Me%20Suivre-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/Assane818)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter%20Site-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=1A1A2E)](#)
   
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ Zone Fun - L'Âme Africaine du Code
+## ⚡ Zone Fun - Au-delà du Code
 
 <div align="center">
   
-  <!-- Citation Africaine Inspirante -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Ubuntu%3A%20Je%20code%20parce%20que%20nous%20codons%20-%20L'excellence%20africaine%20dans%20chaque%20algorithme&author=Assane%20Ndiaye%20🇸🇳" alt="Citation Ubuntu"/>
+  <!-- Citation Dynamique -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Le%20code%20est%20de%20la%20poésie%20écrite%20en%20logique%20-%20créer%20des%20symphonies%20numériques%20une%20ligne%20à%20la%20fois&author=Assane%20Ndiaye" alt="Citation"/>
   
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #FFD700, #000000); padding: 15px; border-radius: 10px;">
+<td width="50%" valign="top">
 
-### 🦁 **Faits du Développeur Africain**
-- 🌍 **Origine :** Né dans la Teranga, Dakar la Belle 🇸🇳
-- ☕ **Addiction :** Café Touba (meilleur au monde, fight me! ☕)
-- 🌙 **Peak Time :** Codeur nocturne post-Maghreb 🌙
-- 🎯 **Debug Method :** Istighfar + café + Ubuntu mindset
-- 🚀 **Rêve Tech :** Wakanda IRL avec de la vraie tech
-- 📱 **Team Mobile :** iPhone user, Android developer (polyvalence!)
-- 🏎️ **F1 :** Lewis Hamilton = GOAT (représentation matters)
-- ⚽ **Football :** Liverpool + Lions du Sénégal (Mané forever ❤️)
-- 🥁 **Détente :** Sessions Sabar pour débugger les idées
-- 🌅 **Routine :** Fajr prayer + morning code = blessed day
+### 🎲 **Faits Aléatoires de Développeur**
+- 🌍 **Localisation :** Né et élevé dans le magnifique Dakar, Sénégal
+- ☕ **Statut Café :** Dangereusement accro (5+ tasses/jour)
+- 🌙 **Heures de Pointe :** Codeur nocturne (meilleur code à 2h du matin)
+- 🎯 **Méthode Debug :** Debugging canard en caoutchouc + café
+- 🚀 **Projet de Rêve :** Assistant de développement alimenté par IA
+- 📱 **Équipe :** Passionné iOS mais développeur Android
+- 🏎️ **Fan F1 :** Supporter Mercedes-AMG Petronas
+- ⚽ **Football :** Supporter Liverpool FC
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, #00FF00, #000000); padding: 15px; border-radius: 10px; color: white;">
+<td width="50%" valign="top">
 
-### 💭 **Philosophie Ubuntu du Code**
+### 💭 **Philosophie de Développeur**
 ```javascript
-// Ma philosophie de vie : Ubuntu meets Code
-class DéveloppeurAfricain {
+// Ma routine quotidienne & philosophie de vie
+class VieDéveloppeur {
   constructor() {
-    this.ubuntu = "Je suis parce que nous sommes";
-    this.teranga = "Hospitalité dans chaque fonction";
-    this.excellence = "Representing Africa globally";
-    this.caféTouba = "Infinite energy source ☕";
+    this.passion = "Infinie";
+    this.niveauCafé = "Maximum";
+    this.modeApprentissage = "Toujours Activé";
   }
   
-  routineAfricaine() {
+  routineQuotidienne() {
     const activités = [];
     
-    // Start with gratitude and purpose
-    activités.push(this.prayerAndGratitude());
-    activités.push(this.caféToubaTime());
-    
-    while (this.buildingTheFuture()) {
-      activités.push(this.codeWithPurpose());
-      activités.push(this.solveAfricanProblems());
-      activités.push(this.mentorNextGeneration());
-      activités.push(this.representAfricanExcellence());
+    while (this.estRéveillé()) {
+      activités.push(this.boireCafé());
+      activités.push(this.écrireCode());
+      activités.push(this.résoudreProblèmes());
+      activités.push(this.apprendreNouvelleTech());
       
-      if (this.needInspiration()) {
-        this.listenToMbalax(); // Youssou N'Dour boost
-        this.connectWithAncestors();
-        this.rememberWhyICode(); // For the continent
+      if (this.estBloqué()) {
+        this.prendrePause();
+        this.parlerAuCanardEnCaoutchouc();
+        this.boirePlusDeCafé();
       }
     }
     
-    return "Another day building African digital future! 🌍";
+    return "Encore une journée productive ! 🚀";
   }
   
-  missionStatement() {
-    return `
-      Transformer l'Afrique par la technologie,
-      Une ligne de code à la fois,
-      Avec la sagesse Ubuntu et l'innovation moderne.
-      Alhamdulillah pour cette opportunité! 🤲
-    `;
+  objectifVie() {
+    return "Construire des choses géniales qui comptent ✨";
   }
 }
 
-const assane = new DéveloppeurAfricain();
-console.log(assane.routineAfricaine());
-// Output: "Coding for Africa with Ubuntu spirit! 🦁"
+const assane = new VieDéveloppeur();
+console.log(assane.routineQuotidienne());
 ```
 
 </td>
 </tr>
 </table>
 
-<!-- African Tech Joke -->
+<!-- Joke API -->
 <div align="center">
   
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=000000&textColor=FFFFFF&qColor=FFD700&aColor=00FF00" alt="Blague Tech Africaine"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117&textColor=FFFFFF&qColor=00D4FF&aColor=FFD93D" alt="Blague Programmation"/>
   
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Vision 2030 - African Tech Renaissance
+## 🎯 Objectifs Actuels & Vision Future
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=🎯+2024%3A+Devenir+le+GitHub+Star+du+Sénégal;🚀+2025%3A+Lancer+la+Première+TechStars+Africaine;🌟+2027%3A+African+Unicorn+Founder;💡+2030%3A+Silicon+Sahel+Ecosystem+Leader;🦁+Toujours%3A+Ubuntu+Philosophy+in+Global+Tech" alt="Vision Africaine"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=800&color=4ECDC4&center=true&vCenter=true&width=800&lines=🎯+Court+Terme%3A+Maîtriser+l'Architecture+Cloud;🚀+Moyen+Terme%3A+Diriger+des+Équipes+de+Développement;🌟+Long+Terme%3A+Entrepreneur+Tech+%26+Leader+Innovation;💡+Toujours%3A+Contribuer+à+la+Communauté+Open+Source" alt="Objectifs"/>
   
 </div>
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" style="background: linear-gradient(135deg, #FF6B35, #000000); padding: 15px; border-radius: 10px; color: white;">
+<td width="33%" align="center">
 
-### 🎯 **Objectifs 2024-2025**
-- ☁️ AWS/Azure Certifications (Infrastructure pour l'Afrique)
-- 🐳 Docker/K8s mastery (Scalabilité africaine)
-- 🤖 IA/ML pour solutions africaines
-- 📱 10+ Flutter apps African-focused
-- 🌐 Contribuer à +50 projets open source
-- 🏆 Devenir GitHub Arctic Code Vault Contributor
-- 🚀 Lancer startup FinTech Sénégal
-- 📚 Mentorer 100+ jeunes développeurs africains
+### 🎯 **Objectifs 2024**
+- ☁️ Certification AWS/Azure
+- 🐳 Maîtrise Docker & Kubernetes
+- 🤖 Intégration projets IA/ML
+- 📱 Plus d'applications Flutter
+- 🌐 Contribuer à l'open source
 
 </td>
-<td width="33%" align="center" style="background: linear-gradient(135deg, #00FF00, #000000); padding: 15px; border-radius: 10px; color: white;">
+<td width="33%" align="center">
 
-### 🚀 **Vision 2026-2027**  
-- 👥 Diriger équipe tech de 50+ développeurs
-- 🏢 Créer premier incubateur tech rural Sénégal
-- 🎓 Programme de formation développeurs panafricain
-- 🌍 Partenariats tech Sénégal-Silicon Valley
-- 📚 Conférencier international tech africaine
-- 💰 Lever première série A tech sénégalaise
-- 🎯 Apps utilisées par 1M+ Africains
-- 🏆 Prix innovation technologique africaine
+### 🚀 **Vision 2025**  
+- 👥 Diriger des équipes de développement
+- 🏢 Lancer consultancy tech
+- 🎓 Encadrer développeurs juniors
+- 🌍 Collaborations internationales
+- 📚 Intervenant conférences tech
 
 </td>
-<td width="33%" align="center" style="background: linear-gradient(135deg, #FFD700, #000000); padding: 15px; border-radius: 10px; color: black;">
+<td width="33%" align="center">
 
-### 🌟 **Legacy 2028-2030**
-- 🦄 Créer première Unicorn tech Afrique de l'Ouest
-- 🌍 Écosystème "Silicon Sahel" opérationnel
-- 📖 Livre: "Ubuntu Programming Philosophy"
-- 🎯 Impact: 10M+ vies transformées par mes apps
-- 🏆 Recognition mondiale innovation africaine
-- 🌟 Nouveau modèle: African Tech Leadership
-- 💡 R&D Center: Dakar Tech Innovation Hub
-- 🤲 Waqf technologique pour l'éducation africaine
+### 🌟 **Long Terme**
+- 🚀 Lancer startup tech
+- 🌍 Leader transformation digitale
+- 📖 Écrire livres techniques
+- 🎯 Focus innovation & R&D
+- 🏆 Reconnaissance industrie
 
 </td>
 </tr>
@@ -628,15 +515,15 @@ console.log(assane.routineAfricaine());
 
 ---
 
-<!-- Enhanced Snake Animation with African theme -->
+<!-- Footer avec Animation Snake -->
 <div align="center">
   
-  ### 🐍 **Regardez mes contributions nourrir le serpent du code africain !**
+  ### 🐍 **Regardez mes contributions être mangées par un serpent !**
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Assane818/Assane818/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Assane818/Assane818/output/github-contribution-grid-snake.svg">
-    <img alt="Animation serpent contributions - Excellence africaine" src="https://raw.githubusercontent.com/Assane818/Assane818/output/github-contribution-grid-snake.svg">
+    <img alt="animation serpent grille contribution github" src="https://raw.githubusercontent.com/Assane818/Assane818/output/github-contribution-grid-snake.svg">
   </picture>
   
 </div>
@@ -645,23 +532,20 @@ console.log(assane.routineAfricaine());
 
 <div align="center">
   
-  ### 🦁 **"Ubuntu: Je code parce que nous codons - Excellence africaine, Impact mondial"** 🌍
+  ### 🌟 **"La meilleure façon de prédire l'avenir, c'est de le créer"** 🌟
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=footer&text=Jërëjëf%20ak%20Ubuntu!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Ensemble%2C%20nous%20construisons%20l'Afrique%20numérique%20%F0%9F%9A%80&descAlignY=80&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,23&height=200&section=footer&text=Merci%20de%20Votre%20Visite!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Construisons%20quelque%20chose%20d'extraordinaire%20ensemble%20%F0%9F%9A%80&descAlignY=80&descSize=18" width="100%"/>
   
 </div>
 
 <div align="center">
   
-  **💫 Codé avec ❤️ Ubuntu par Assane Ndiaye 🇸🇳 | Barakallahu fik pour votre visite 💫**
+  **💫 Fait avec ❤️ par Assane Ndiaye | Dernière mise à jour : `génération automatique` 💫**
   
-  ![Made in Senegal](https://img.shields.io/badge/Made%20in-🇸🇳%20Sénégal-00FF00?style=for-the-badge&labelColor=000000)
-  ![Powered by Café Touba](https://img.shields.io/badge/Powered%20by-☕%20Café%20Touba-8B4513?style=for-the-badge&labelColor=000000)
-  ![Ubuntu Philosophy](https://img.shields.io/badge/Ubuntu-Je%20suis%20parce%20que%20nous%20sommes-FFD700?style=for-the-badge&labelColor=000000)
-  ![African Excellence](https://img.shields.io/badge/African-Excellence%20🦁-FF6B35?style=for-the-badge&labelColor=000000)
+  ![Fait avec Amour](https://img.shields.io/badge/Fait%20avec-❤️-FF6B6B?style=for-the-badge&labelColor=1A1A2E)
+  ![Alimenté par Café](https://img.shields.io/badge/Alimenté%20par-☕-8B4513?style=for-the-badge&labelColor=1A1A2E)
+  ![Construit avec Code](https://img.shields.io/badge/Construit%20avec-💻-4ECDC4?style=for-the-badge&labelColor=1A1A2E)
   
-  *⭐ Si Ubuntu résonne en vous, n'oubliez pas de starrer mes projets ! Asante sana ! ⭐*
-  
-  **🌍 Ensemble, nous codons l'avenir de l'Afrique ! 🚀**
+  *⭐ Si vous trouvez mon profil intéressant, n'oubliez pas de mettre une étoile à mes dépôts ! ⭐*
   
 </div>

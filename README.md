@@ -177,14 +177,6 @@
   
 </div>
 
-<!-- Main Stats Row -->
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Assane818&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FFD93D&text_color=FFFFFF&border_radius=10&custom_title=🔥%20Statistiques%20GitHub&locale=fr" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assane818&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=10&custom_title=💻%20Langages%20les%20Plus%20Utilisés&locale=fr" height="180px"/>
-  
-</div>
-
 <!-- Streak Stats -->
 <div align="center">
   
@@ -198,46 +190,6 @@
   <img src="https://metrics.lecoq.io/Assane818?template=classic&config.timezone=Africa%2FDakar&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.output=svg&config.animated=true&config.padding=10%2C%2010" alt="Métriques GitHub" width="100%"/>
   
 </div>
-
-### 🏆 Réalisations GitHub
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Assane818&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers" alt="Trophées GitHub"/>
-  
-</div>
-
-<!-- Real-time Stats Cards -->
-<table align="center" width="100%">
-<tr>
-<td width="25%" align="center">
-
-**📝 Total Commits**  
-![Commits](https://badges.pufler.dev/commits/monthly/Assane818?style=for-the-badge&color=FF6B6B&labelColor=1A1A2E&label=COMMITS)
-
-</td>
-<td width="25%" align="center">
-
-**📚 Dépôts**  
-![Repos](https://badges.pufler.dev/repos/Assane818?style=for-the-badge&color=4ECDC4&labelColor=1A1A2E&label=DÉPÔTS)
-
-</td>
-<td width="25%" align="center">
-
-**⭐ Total Étoiles**  
-![Stars](https://img.shields.io/github/stars/Assane818?style=for-the-badge&color=FFD93D&labelColor=1A1A2E&logo=github&label=ÉTOILES)
-
-</td>
-<td width="25%" align="center">
-
-**👥 Abonnés**  
-![Followers](https://img.shields.io/github/followers/Assane818?style=for-the-badge&color=FF9F43&labelColor=1A1A2E&logo=github&label=ABONNÉS)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Projets Phares - Portfolio de Code
 

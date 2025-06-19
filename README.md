@@ -31,16 +31,8 @@
 
 <div align="center">
   
-  <!-- Animated Code Snippet -->
-  <div align="center">
-  
-  <!-- Header with Black Developer -->
-  <img src="https://readme-header-typing-svg.demolab.com/api?lines=Assane+Ndiaye+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB;Développeur+Full+Stack+Africain;Made+in+Senegal+%F0%9F%87%B8%F0%9F%87%B3;Excellence+Technique+Africaine&font=Fira%20Code&size=35&duration=3000&pause=1000&color=FFD700&center=true&width=1000&height=200&background=000000" />
-  
-  <!-- Professional Black Developer Image -->
-  <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face&fm=jpg&q=80" alt="Professional Black Developer" style="border-radius: 50%; border: 5px solid #FFD700; margin: 20px 0;"/>
-  
-</div>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,23&height=350&section=header&text=Assane%20Ndiaye&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Développeur%20Full%20Stack%20%7C%20Architecte%20de%20Solutions%20Numériques%20✨&descAlignY=58&descSize=20" width="100%"/>
   
 </div>
 

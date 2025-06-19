@@ -8,7 +8,7 @@
 <!-- Dynamic Typing Animation -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+Développeur+Full+Stack+Junior;%F0%9F%92%8E+Créateur+d'Expériences+Numériques;%F0%9F%8C%8D+Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3;%E2%9A%A1+Architecte+de+Code+Passionné)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+Développeur+Full+Stack+Junior;%F0%9F%92%8E+Créateur+d'Expériences+Numériques;%F0%9F%8C%8D+Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3)](https://git.io/typing-svg)
   
 </div>
 

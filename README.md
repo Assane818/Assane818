@@ -55,7 +55,7 @@
 <div align="center">
   
   <!-- Animated Developer GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Animation Codage"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Développeur Noir au Travail"/>
   
   <br><br>
   

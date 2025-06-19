@@ -32,7 +32,7 @@
 <div align="center">
   
   <!-- Animated Code Snippet -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=800&color=FFD93D&center=true&vCenter=true&width=850&height=200&lines=const+développeur+%3D+%7B;++nom%3A+%22Assane+Ndiaye%22%2C;++âge%3A+21%2C;++localisation%3A+%22Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3%22%2C;++formation%3A+%22Génie+Logiciel+Réseaux+et+Système%22%2C;++école%3A+%22Institut+Supérieur+de+Management+(ISM)%22%2C;++passion%3A+%22Créer+des+Solutions+Numériques+Innovantes%22%2C;++focusActuel%3A+%5B%22Développement+Full+Stack%22%2C+%22Technologies+Cloud%22%5D%2C;++mission%3A+%22Transformer+les+Idées+en+Réalité+Numérique%22;%7D%3B" alt="About Me Code"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=800&color=000000&center=true&vCenter=true&width=850&height=200&lines=const+développeur+%3D+%7B;++nom%3A+%22Assane+Ndiaye%22%2C;++âge%3A+21%2C;++localisation%3A+%22Dakar%2C+Sénégal+%F0%9F%87%B8%F0%9F%87%B3%22%2C;++formation%3A+%22Génie+Logiciel+Réseaux+et+Système%22%2C;++école%3A+%22Institut+Supérieur+de+Management+(ISM)%22%2C;++passion%3A+%22Créer+des+Solutions+Numériques+Innovantes%22%2C;++focusActuel%3A+%5B%22Développement+Full+Stack%22%2C+%22Technologies+Cloud%22%5D%2C;++mission%3A+%22Transformer+les+Idées+en+Réalité+Numérique%22;%7D%3B" alt="About Me Code"/>
   
 </div>
 
